@@ -1,15 +1,16 @@
-id: opecha:P000491
+id: P000491
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21657
   title: དེབ་ཐེར་དམར་པོ་གསར་མ
-  volume:
+  author: ''
+  volumes:
     5832e99fbce440edaf3cc94d073fe4ca:
       image_group_id: I1GS105609
       title: Volume 1 of deb ther dmar po gsar ma
       volume_number: 1
       total_pages: 118
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དེབ་ཐེར་དམར་པོ་གསར་མ
   author: ''
